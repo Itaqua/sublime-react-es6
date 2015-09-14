@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+const ${1} = React.createClass({
+	render() {
+		return (
+			${0:<div />}
+		)
+	},
+})
+]]></content>
+    <tabTrigger>ric</tabTrigger>
+    <scope>source.js</scope>
+    <description>React: inline component skeleton</description>
+</snippet>

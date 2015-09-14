@@ -3,7 +3,7 @@
 getDefaultProps() {
 	return {
 		${1}
-	};
+	}
 },
 ]]></content>
     <tabTrigger>gdp</tabTrigger>
